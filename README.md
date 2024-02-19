@@ -6,22 +6,9 @@
 </h1>
 
 
-## Table of Contents
-
-<p align="center">
- <a href="#about">About</a> •
- <a href="#features">Features</a> •
- <a href="#technologies">Technologies</a> • 
- <a href="#documentation">Documentation</a> •
- <a href="#installation ">Installation </a> •
- <a href="#getting-started">Get Started</a> •
- <a href="#postgresql">PostgreSQL</a>
- 
-</p>
-
 <br>
 
-## 📌About
+## 📌Sobre
 
 <div>
     <p align="center">
@@ -45,7 +32,7 @@
 - Criar, Editar e Apagar (Pessoa, Tarefa e Departamento)
 <br>
 
-## 🌐Technologies
+## 🌐Tecnologias
 
 - Java 8
 - JPA
@@ -57,7 +44,7 @@
 - Postman
 
 
-## 📕Installation
+## 📕Instalação
 
 **Recomendações**
 - É recomendável que você tenha instalado o Google Chrome ou Edge
@@ -85,6 +72,6 @@ e altere o banco de dados para o seu e rode como Spring Boot APP
 
 <br>
 
-## 🎮Getting Started
+## ▶ Rodando o projeto
 - Abra o navegador e entre no seguinte link: http://localhost:8080
 - Teste os endpoints com os testes unitarios ou pelo postman
